@@ -3,4 +3,3 @@ sympy
 numpy
 matplotlib
 mpl_toolkits
-Axes3D
